@@ -1,5 +1,4 @@
 # walkingmodule
-### funny walking python package
 
 ## Install
     pip install walkingmodule
@@ -11,5 +10,4 @@
 
 ## Credits
 yldrmzffr - Muzaffer Yıldırım (author, package)
-
 hakanterman - Hakan Terman (idea, gif)
